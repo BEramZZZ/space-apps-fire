@@ -1,0 +1,6 @@
+,type0,all
+blocks,444.0,444.0
+rows,134088.0,134088.0
+VIIRS cell-days 2013+,138086.0,642466.0
+MODIS cell-days 2013+,33810.0,91082.0
+share of VIIRS cell-days in blocks with no MODIS that month (%),36.3,24.2

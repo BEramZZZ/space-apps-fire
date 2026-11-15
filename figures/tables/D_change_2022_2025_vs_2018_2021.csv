@@ -1,0 +1,25 @@
+,types,group,zone,change % (no month removed),change % (outage months removed)
+0,type 0 only,MODIS Terra+Aqua,all,-38.8,-34.7
+1,type 0 only,MODIS Terra+Aqua,north,-64.0,-64.3
+2,type 0 only,MODIS Terra+Aqua,south,14.0,15.0
+3,type 0 only,MODIS Terra,all,-33.6,-27.0
+4,type 0 only,MODIS Terra,north,-67.8,-65.7
+5,type 0 only,MODIS Terra,south,19.2,20.1
+6,type 0 only,MODIS Aqua,all,-44.1,-42.9
+7,type 0 only,MODIS Aqua,north,-61.2,-63.9
+8,type 0 only,MODIS Aqua,south,3.0,3.5
+9,type 0 only,VIIRS,all,-16.6,-9.0
+10,type 0 only,VIIRS,north,-50.1,-41.3
+11,type 0 only,VIIRS,south,11.6,13.5
+12,all types,MODIS Terra+Aqua,all,-39.2,-37.6
+13,all types,MODIS Terra+Aqua,north,-50.3,-45.5
+14,all types,MODIS Terra+Aqua,south,-33.3,-34.1
+15,all types,MODIS Terra,all,-38.3,-36.3
+16,all types,MODIS Terra,north,-49.0,-42.2
+17,all types,MODIS Terra,south,-33.9,-34.2
+18,all types,MODIS Aqua,all,-42.6,-41.8
+19,all types,MODIS Aqua,north,-50.4,-47.8
+20,all types,MODIS Aqua,south,-37.8,-38.9
+21,all types,VIIRS,all,-2.6,2.1
+22,all types,VIIRS,north,-12.1,-3.6
+23,all types,VIIRS,south,0.4,3.8

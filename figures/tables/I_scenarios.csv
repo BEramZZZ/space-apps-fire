@@ -1,0 +1,17 @@
+,scenario,model,train rows,median monthly error (%),total bias (%),bias north (%),bias south (%),block MAE (cell-days),block RMSE (cell-days),block Spearman
+0,S1 type0 | outages removed | train 2016-2021,straight log-log,30636,36.91,-5.31,36.47,-47.75,2.07,12.18,0.57
+1,S1 type0 | outages removed | train 2016-2021,curved log-quadratic,30636,18.96,-2.81,27.28,-33.38,1.99,9.15,0.57
+2,S1 type0 | outages removed | train 2016-2021,gradient boosting,30636,13.88,2.86,-3.96,9.78,1.74,7.34,0.54
+3,S1 type0 | outages removed | train 2016-2021,neural network,30636,25.09,-4.44,29.23,-38.65,1.82,9.23,0.51
+4,S2 type0 | outages removed | train 2016-2025,straight log-log,45288,32.17,2.64,48.47,-43.91,2.2,13.33,0.57
+5,S2 type0 | outages removed | train 2016-2025,curved log-quadratic,45288,15.21,0.08,29.42,-29.73,2.03,9.17,0.57
+6,S2 type0 | outages removed | train 2016-2025,gradient boosting,45288,15.3,-0.49,-7.61,6.75,1.75,7.55,0.54
+7,S2 type0 | outages removed | train 2016-2025,neural network,45288,18.72,5.33,45.08,-35.05,1.97,9.8,0.53
+8,S3 type0 | outages KEPT | train 2016-2025,straight log-log,53280,33.92,-2.66,39.41,-45.41,2.11,12.32,0.57
+9,S3 type0 | outages KEPT | train 2016-2025,curved log-quadratic,53280,16.9,-1.86,26.8,-30.97,2.01,9.11,0.57
+10,S3 type0 | outages KEPT | train 2016-2025,gradient boosting,53280,14.79,-2.84,-10.76,5.2,1.76,7.67,0.53
+11,S3 type0 | outages KEPT | train 2016-2025,neural network,53280,18.67,-5.12,22.19,-32.86,1.82,9.27,0.52
+12,S4 ALL types | outages removed | train 2016-2021,straight log-log,30636,41.31,23.3,57.33,11.09,11.09,93.9,0.66
+13,S4 ALL types | outages removed | train 2016-2021,curved log-quadratic,30636,21.59,6.67,83.78,-21.0,7.69,28.48,0.66
+14,S4 ALL types | outages removed | train 2016-2021,gradient boosting,30636,11.24,8.87,13.03,7.38,3.92,13.27,0.61
+15,S4 ALL types | outages removed | train 2016-2021,neural network,30636,9.59,9.04,19.25,5.38,5.47,20.6,0.61

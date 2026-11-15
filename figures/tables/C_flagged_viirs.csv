@@ -1,0 +1,14 @@
+,days in month,days with a detection,days missing,labelled share,static detections,static / normal,flagged by,on your list
+2021-08,31,30,1,1.0,6868,1.14,missing days,False
+2022-07,31,26,5,1.0,6001,1.0,missing days,True
+2022-08,31,21,10,1.0,5280,0.88,missing days,True
+2023-07,31,30,1,1.0,6551,1.0,missing days,False
+2023-11,30,29,1,1.0,6645,1.01,missing days,False
+2024-01,31,30,1,1.0,5158,0.8,missing days,True
+2024-05,31,29,2,1.0,5832,1.0,missing days,False
+2024-06,30,27,3,1.0,5569,0.95,missing days,True
+2024-07,31,19,12,1.0,4342,0.72,missing days,True
+2024-09,30,28,2,1.0,5172,0.84,missing days,False
+2024-11,30,26,4,1.0,6307,1.02,missing days,True
+2025-07,31,30,1,1.0,7474,1.05,missing days,False
+2025-11,30,29,1,1.0,6682,0.88,missing days,False
